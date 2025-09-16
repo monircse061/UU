@@ -10,7 +10,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 
 ### 🖥️ System Configuration and Performance Evaluation  
 - **Course Code:** CSE0613307  
-- **Batch:** 60D Day (CSE)  
+- **Batch:** 60D and 60H Day (CSE)  
 - **Google Class Code:** `_________`  
 - **📑 Slide Link:** [Slides](#)  
 - **📚 Reference Book Link:** [Book](#)  
@@ -30,7 +30,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 
 ### ☕ Java Programming  
 - **Course Code:** CSE0613207  
-- **Batch:** 61E Eve (CSE)  
+- **Batch:** 61E and 61B Eve (CSE)  
 - **Google Class Code:** `_________`  
 - **📑 Slide Link:** [Slides](#)  
 - **📚 Reference Book Link:** [Book](#)  
@@ -39,25 +39,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 
 ### 🧑‍💻 Java Programming Lab  
 - **Course Code:** CSE0613208  
-- **Batch:** 61E Eve (CSE)  
-- **Google Class Code:** `_________`  
-- **📑 Slide Link:** [Slides](#)  
-- **📚 Reference Book Link:** [Book](#)  
-
----
-
-### ☕ Java Programming  
-- **Course Code:** CSE0613207  
-- **Batch:** 61B Eve (CSE)  
-- **Google Class Code:** `_________`  
-- **📑 Slide Link:** [Slides](#)  
-- **📚 Reference Book Link:** [Book](#)  
-
----
-
-### 🧑‍💻 Java Programming Lab  
-- **Course Code:** CSE0613208  
-- **Batch:** 61B Eve (CSE)  
+- **Batch:** 61E and 61B Eve (CSE) 
 - **Google Class Code:** `_________`  
 - **📑 Slide Link:** [Slides](#)  
 - **📚 Reference Book Link:** [Book](#)  
