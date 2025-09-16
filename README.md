@@ -13,7 +13,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 - **Batch:** 60D Day (CSE)  
 - **Google Class Code:** `_________`  
 - **📑 Slide Link:** [Slides](#)  
-- **📚 Reference Book Link (GDrive):** [Book](#)  
+- **📚 Reference Book Link:** [Book](#)  
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 - **Batch:** 60H Day (CSE)  
 - **Google Class Code:** `_________`  
 - **📑 Slide Link:** [Slides](#)  
-- **📚 Book Link (GDrive):** [Book](#)  
+- **📚 Reference Book Link:** [Book](#)  
 
 ---
 
@@ -33,7 +33,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 - **Batch:** 61E Eve (CSE)  
 - **Google Class Code:** `_________`  
 - **📑 Slide Link:** [Slides](#)  
-- **📚 Reference Book Link (GDrive):** [Book](#)  
+- **📚 Reference Book Link:** [Book](#)  
 
 ---
 
@@ -42,7 +42,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 - **Batch:** 61E Eve (CSE)  
 - **Google Class Code:** `_________`  
 - **📑 Slide Link:** [Slides](#)  
-- **📚 Book Link (GDrive):** [Book](#)  
+- **📚 Reference Book Link:** [Book](#)  
 
 ---
 
@@ -51,7 +51,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 - **Batch:** 61B Eve (CSE)  
 - **Google Class Code:** `_________`  
 - **📑 Slide Link:** [Slides](#)  
-- **📚 Reference Book Link (GDrive):** [Book](#)  
+- **📚 Reference Book Link:** [Book](#)  
 
 ---
 
@@ -60,6 +60,6 @@ Welcome to my course repository! Below you will find details of the courses I am
 - **Batch:** 61B Eve (CSE)  
 - **Google Class Code:** `_________`  
 - **📑 Slide Link:** [Slides](#)  
-- **📚 Reference Book Link (GDrive):** [Book](#)  
+- **📚 Reference Book Link:** [Book](#)  
 
 ---
