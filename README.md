@@ -14,7 +14,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 - **Google Class Code:** `no2qfwxl`
 
 - **Batch:** 60H Day (CSE)
-- **Google Class Code:** `no2qfwxl`
+- **Google Class Code:** `onozjiee`
 - **📑 Slide Link:** [Slides](#)  
 - **📚 Reference Book Link:** [Book](#)  
 
