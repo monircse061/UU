@@ -12,7 +12,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 - **Course Code:** CSE0613307  
 - **Batch:** 60D Day (CSE)  
 - **Google Class Code:** `no2qfwxl`
----
+-----------------------------------
 - **Batch:** 60H Day (CSE)
 - **Google Class Code:** `no2qfwxl`
 - **📑 Slide Link:** [Slides](#)  
