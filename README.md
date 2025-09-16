@@ -23,7 +23,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 ### 📡 Data Communication  
 - **Course Code:** CSE0612303  
 - **Batch:** 60H Day (CSE)  
-- **Google Class Code:** `_________`  
+- **Google Class Code:** `ztqkjmok`  
 - **📑 Slide Link:** [Slides](#)  
 - **📚 Reference Book Link:** [Book](#)  
 
