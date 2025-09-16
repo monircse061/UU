@@ -43,7 +43,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 ### 🧑‍💻 Java Programming and Lab  
 - **Course Code:** CSE0613207 and CSE0613208 
 - **Batch:** 61B Eve (CSE) 
-- **Google Class Code:** `_________`  
+- **Google Class Code:** `k7qxaolc`  
 - **📑 Slide Link:** [Slides](#)  
 - **📚 Reference Book Link:** [Book](#)  
 
