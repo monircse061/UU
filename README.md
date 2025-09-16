@@ -29,19 +29,12 @@ Welcome to my course repository! Below you will find details of the courses I am
 
 ---
 
-## 🌙 Evening Batch Courses  
+## 🌙 Evening Batch Course  
 
 ### ☕ Java Programming and Lab
 - **Course Code:** CSE0613207 and CSE0613208
 - ### **Batch:** 61E Eve (CSE)  
 - **Google Class Code:** `dq6jvl7i`  
-- **📑 Slide Link:** [Slides](#)  
-- **📚 Reference Book Link:** [Book](#)  
-
----
-
-### 🧑‍💻 Java Programming and Lab  
-- **Course Code:** CSE0613207 and CSE0613208 
 - ### **Batch:** 61B Eve (CSE) 
 - **Google Class Code:** `k7qxaolc`  
 - **📑 Slide Link:** [Slides](#)  
