@@ -22,7 +22,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 
 ### 📡 Data Communication  
 - **Course Code:** CSE0612303  
-- **Batch:** 60H Day (CSE)  
+- ### **Batch:** 60H Day (CSE)  
 - **Google Class Code:** `ztqkjmok`  
 - **📑 Slide Link:** [Slides](#)  
 - **📚 Reference Book Link:** [Book](#)  
@@ -33,7 +33,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 
 ### ☕ Java Programming and Lab
 - **Course Code:** CSE0613207 and CSE0613208
-- **Batch:** 61E Eve (CSE)  
+- ### **Batch:** 61E Eve (CSE)  
 - **Google Class Code:** `dq6jvl7i`  
 - **📑 Slide Link:** [Slides](#)  
 - **📚 Reference Book Link:** [Book](#)  
@@ -42,7 +42,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 
 ### 🧑‍💻 Java Programming and Lab  
 - **Course Code:** CSE0613207 and CSE0613208 
-- **Batch:** 61B Eve (CSE) 
+- ### **Batch:** 61B Eve (CSE) 
 - **Google Class Code:** `k7qxaolc`  
 - **📑 Slide Link:** [Slides](#)  
 - **📚 Reference Book Link:** [Book](#)  
