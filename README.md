@@ -15,7 +15,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 
 - ### **Batch:** 60H Day (CSE)
 - **Google Class Code:** `onozjiee`
-- **📑 Slide Link:** [Slides](#)  
+- **📑 Slide Link:** [Slides](https://drive.google.com/drive/folders/1w5Xpva-CZlMgnq-FuSDrcpC-FYo-M-ll?usp=sharing)  
 - **📚 Reference Book Link:** [Book](#)  
 - **📚 Course Outline:** [PDF](https://drive.google.com/drive/folders/1827NVhqF6SfkvcPiP46pJ-kcy34DAJDl?usp=sharing) 
 ---
