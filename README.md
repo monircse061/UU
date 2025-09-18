@@ -37,7 +37,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 - **Google Class Code:** `dq6jvl7i`  
 - ### **Batch:** 61B Eve (CSE) 
 - **Google Class Code:** `k7qxaolc`  
-- **📑 Slide Link:** [Slides](#)  
+- **📑 Slide Link:** [Slides](https://drive.google.com/drive/folders/1ENAl9BppCUzgegg6Zuzh1KQ3aS4PjJmI?usp=sharing)  
 - **📚 Reference Book Link:** [Book](#)  
 
 ---
