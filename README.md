@@ -24,7 +24,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 - **Course Code:** CSE0612303  
 - ### **Batch:** 60H Day (CSE)  
 - **Google Class Code:** `ztqkjmok`  
-- **📑 Slide Link:** [Slides](#)  
+- **📑 Slide Link:** [Slides](https://drive.google.com/drive/folders/1sErfD5LPsIN9PhluKvC5lEM19mkJBsuk?usp=sharing)  
 - **📚 Reference Book Link:** [Book](#)  
 
 ---
