@@ -38,6 +38,6 @@ Welcome to my course repository! Below you will find details of the courses I am
 - ### **Batch:** 61B Eve (CSE) 
 - **Google Class Code:** `k7qxaolc`  
 - **📑 Slide Link:** [Slides](https://drive.google.com/drive/folders/1ENAl9BppCUzgegg6Zuzh1KQ3aS4PjJmI?usp=sharing)  
-- **📚 Reference Book Link:** [Book](#)  
+- **📚 Reference Book Link:** [Book](https://www.sietk.org/downloads/javabook.pdf)  
 
 ---
