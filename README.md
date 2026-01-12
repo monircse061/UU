@@ -23,7 +23,8 @@ Welcome to my course repository! Below you will find details of the courses I am
 
 - **📑 Slide Link:** [Slides](https://drive.google.com/drive/folders/1w5Xpva-CZlMgnq-FuSDrcpC-FYo-M-ll?usp=sharing)  
 - **📚 Reference Book Link:** [Book](#)  
-- **📚 Course Outline:** [PDF](https://drive.google.com/drive/folders/1827NVhqF6SfkvcPiP46pJ-kcy34DAJDl?usp=sharing) 
+- **📚 Course Outline:** [PDF](https://drive.google.com/drive/folders/1827NVhqF6SfkvcPiP46pJ-kcy34DAJDl?usp=sharing)
+- **📑 YouTube:** [Course Tutorial](https://www.youtube.com/@MonirTechPointBD/playlists)  
 ---
 
 ### 📡 Data Communication  
@@ -35,7 +36,8 @@ Welcome to my course repository! Below you will find details of the courses I am
 
 - **📑 Slide Link:** [Slides](https://drive.google.com/drive/folders/1sErfD5LPsIN9PhluKvC5lEM19mkJBsuk?usp=sharing)  
 - **📚 Reference Book Link:** [Book](https://drive.google.com/drive/folders/1ujOGKwlRGwt6qcOj663ogIeH0RPZ8tPa?usp=sharing)  
-- **📚 Course Outline:** [PDF](https://drive.google.com/drive/folders/1827NVhqF6SfkvcPiP46pJ-kcy34DAJDl?usp=sharing) 
+- **📚 Course Outline:** [PDF](https://drive.google.com/drive/folders/1827NVhqF6SfkvcPiP46pJ-kcy34DAJDl?usp=sharing)
+- **📑 YouTube:** [Course Tutorial](https://www.youtube.com/@MonirTechPointBD/playlists)  
 ---
 
 ## 🌙 Evening Batch Course  (Fall 2025)
