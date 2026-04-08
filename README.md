@@ -8,6 +8,15 @@ Welcome to my course repository! Below you will find details of the courses I am
 
 ## 🌞 Day Batch Courses
 
+### 📡 Engineering Drawing  
+- **Course Code:** CSE0611301  
+- ### **Batch:** 60D Day (CSE)  
+- **Google Class Code:** `y7hkggz6`
+- **📑 Slide Link:** [Slides](https://drive.google.com/drive/folders/17Z3iE9wylFq6buJ_qO4zJp5DbxVJqvFa?usp=sharing)  
+- **📚 Reference Book Link:** [Book](https://classroom.google.com/c/ODE5MjQ2ODAwNDU1)  
+- **📚 Course Outline:** [PDF](https://classroom.google.com/c/ODE5MjQ2ODAwNDU1)
+---
+
 ### 🖥️ System Configuration and Performance Evaluation  
 - **Course Code:** CSE0613307  
 - ### **Batch:** 61C Day (CSE)  
