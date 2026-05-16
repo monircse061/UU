@@ -1,35 +1,24 @@
 # UU
 Uttara University (CSE) Class Materials
-- **📑 My Github Link:** [Github](https://github.com/monircse061)  
+- **📑 My Github Link:** [Github](https://github.com/monircse061)
+- **📑 My Webpage Link:** [Website](https://monircse061.github.io/webpage/)    
 # 📘 Teaching Courses (Monir Ahammod, Lecturer)
 
-Welcome to my course repository! Below you will find details of the courses I am teaching in Fall 2025 and Spring 2026.   
+Welcome to my course repository! Below you will find details of the courses I am teaching in Fall 2025 and Spring/Summer 2026.   
 ---
 
-## 🌞 Day Batch Courses
+## 🌞 Day /🌙Eve Batch Courses
 
-### 📡 Engineering Drawing  
+### 📐 Engineering Drawing  
 - **Course Code:** CSE0611301  
-- ### **Batch:** 60D Day (CSE)  
-- **Google Class Code:** `y7hkggz6`
+- ### **Batch:** 62[A,B,C] Eve (CSE)  
 - **📑 Slide Link:** [Slides](https://drive.google.com/drive/folders/17Z3iE9wylFq6buJ_qO4zJp5DbxVJqvFa?usp=sharing)  
-- **📚 Reference Book Link:** [Book](https://classroom.google.com/c/ODE5MjQ2ODAwNDU1)  
-- **📚 Course Outline:** [PDF](https://classroom.google.com/c/ODE5MjQ2ODAwNDU1)
+- **📚 Reference Book Link:** [Book](https://archive.org/details/engineeringdrawi0000agra)  
+- **📚 Course Outline:** [PDF](https://drive.google.com/drive/folders/1827NVhqF6SfkvcPiP46pJ-kcy34DAJDl)
 ---
 
 ### 🖥️ System Configuration and Performance Evaluation  
 - **Course Code:** CSE0613307  
-- ### **Batch:** 61C Day (CSE)  
-- **Google Class Code:** `i3xav6ya`
-- ### **Batch:** 61D Day (CSE)  
-- **Google Class Code:** `6qjungh4`
-- ### **Batch:** 62A Eve (CSE)  
-- **Google Class Code:** `ecmm6vi5`
-- ### **Batch:** 62B Eve (CSE)  
-- **Google Class Code:** `js7rry6d`
-- ### **Batch:** 62C Eve (CSE)  
-- **Google Class Code:** `ewjqyuj7`
-
 - **📑 Slide Link:** [Slides](https://drive.google.com/drive/folders/1w5Xpva-CZlMgnq-FuSDrcpC-FYo-M-ll?usp=sharing)  
 - **📚 Reference Book Link:** [Book](#)  
 - **📚 Course Outline:** [PDF](https://drive.google.com/drive/folders/1827NVhqF6SfkvcPiP46pJ-kcy34DAJDl?usp=sharing)
