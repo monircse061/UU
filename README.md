@@ -17,6 +17,13 @@ Welcome to my course repository! Below you will find details of the courses I am
 - **📚 Course Outline:** [PDF](https://drive.google.com/drive/folders/1827NVhqF6SfkvcPiP46pJ-kcy34DAJDl)
 ---
 
+### 🎥 Machine Vision and Motion Analysis 
+- **Course Code:** CSE0613409  
+- **📑 Slide Link:** [Slides](https://drive.google.com/drive/folders/1pC2SIIpqXdEfTnKWEwvNfHXQjKq3CH5H?usp=drive_link)  
+- **📚 Reference Book Link:** [Book](https://szeliski.org/Book/)  
+- **📚 Course Outline:** [PDF](https://drive.google.com/drive/folders/1827NVhqF6SfkvcPiP46pJ-kcy34DAJDl)
+---
+
 ### 🖥️ System Configuration and Performance Evaluation  
 - **Course Code:** CSE0613307  
 - **📑 Slide Link:** [Slides](https://drive.google.com/drive/folders/1w5Xpva-CZlMgnq-FuSDrcpC-FYo-M-ll?usp=sharing)  
