@@ -9,7 +9,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 
 ## 🌞 Day Batch Courses
 
-### ☕ Java Programming and Sessional
+### ☕ Java Programming and Sessional (Only For Day Batch)
 - **Course Code:** CSE0613207 and CSE0613208
 - ### **Batch:** 64D Day (CSE)  
 - **📑 Slide Link:** [Slides](https://drive.google.com/drive/folders/1hujzSCnwPbGjWyNxjiK_rUYho8q04ygV?usp=sharing)  
