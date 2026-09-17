@@ -14,6 +14,13 @@ Welcome to my course repository! Below you will find details of the courses I am
 - ### **Batch:** 64D Day (CSE)  
 - **📑 Slide Link:** [Slides](https://drive.google.com/drive/folders/1hujzSCnwPbGjWyNxjiK_rUYho8q04ygV?usp=sharing)  
 - **📚 Reference Book Link:** [Book](https://www.sietk.org/downloads/javabook.pdf)
+- **📚 Course Outlines:** [Link](https://drive.google.com/drive/folders/1hujzSCnwPbGjWyNxjiK_rUYho8q04ygV?usp=sharing)
+
+### ☕ Discrete Mathematics (Day Batch)
+- **Course Code:** CSE0611101
+- ### **Batch:** 64A Day (CSE)  
+- **📑 Slide Link:** [Slides](https://drive.google.com/drive/folders/1VI1xqv59750dm-ZDOLXlNFd-Cz7I78r3?usp=sharing)  
+- **📚 Reference Book Link:** [Book](https://dpvipracollege.in/wp-content/uploads/2023/01/Discrete-Mathematics-3rd-Edition.pdf)
 - **📚 Course Outlines:** [Link](https://drive.google.com/drive/folders/1hujzSCnwPbGjWyNxjiK_rUYho8q04ygV?usp=sharing) 
 
 ### 📐 Engineering Drawing  
