@@ -2,9 +2,9 @@
 Uttara University (CSE) Class Materials
 - **📑 My Github Link:** [Github](https://github.com/monircse061)
 - **📑 My Webpage Link:** [Website](https://monircse061.github.io/webpage/)    
-# 📘 Teaching Courses (Monir Ahammod, Lecturer)
+# 📘 Teaching Courses (Monir Ahammod, Senior Lecturer)
 
-Welcome to my course repository! Below you will find details of the courses I am teaching in Fall 2025 and Spring/Summer 2026.   
+Welcome to my course repository! Below you will find details of the courses I am teaching in Fall 2025 and Spring/Summer/Fall 2026.   
 ---
 
 ## 🌞 Day /🌙Eve Batch Courses
@@ -49,10 +49,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 
 ### ☕ Java Programming and Lab
 - **Course Code:** CSE0613207 and CSE0613208
-- ### **Batch:** 61E Eve (CSE)  
-- **Google Class Code:** `dq6jvl7i`  
-- ### **Batch:** 61B Eve (CSE) 
-- **Google Class Code:** `k7qxaolc`  
+- ### **Batch:** 63A Eve (CSE)  
 - **📑 Slide Link:** [Slides](https://drive.google.com/drive/folders/1ENAl9BppCUzgegg6Zuzh1KQ3aS4PjJmI?usp=sharing)  
 - **📚 Reference Book Link:** [Book](https://www.sietk.org/downloads/javabook.pdf)
 - **📚 Course Outlines:** [PDF](https://drive.google.com/drive/folders/1827NVhqF6SfkvcPiP46pJ-kcy34DAJDl?usp=sharing) 
