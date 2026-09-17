@@ -45,7 +45,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 - **📑 YouTube:** [Course Tutorial](https://www.youtube.com/@MonirTechPointBD/playlists)  
 ---
 
-## 🌙 Evening Batch Course  (Fall 2025)
+## 🌙 Evening Batch Course  
 
 ### ☕ Java Programming and Lab
 - **Course Code:** CSE0613207 and CSE0613208
