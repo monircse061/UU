@@ -50,7 +50,7 @@ Welcome to my course repository! Below you will find details of the courses I am
 ### ☕ Java Programming and Lab
 - **Course Code:** CSE0613207 and CSE0613208
 - ### **Batch:** 63A Eve (CSE)  
-- **📑 Slide Link:** [Slides](https://drive.google.com/drive/folders/1ENAl9BppCUzgegg6Zuzh1KQ3aS4PjJmI?usp=sharing)  
+- **📑 Slide Link:** [Slides](https://drive.google.com/drive/folders/1zWiY7rGK3cFMa2FeruHwZyR2GYaEhkXu?usp=sharing)  
 - **📚 Reference Book Link:** [Book](https://www.sietk.org/downloads/javabook.pdf)
 - **📚 Course Outlines:** [PDF](https://drive.google.com/drive/folders/1827NVhqF6SfkvcPiP46pJ-kcy34DAJDl?usp=sharing) 
 
