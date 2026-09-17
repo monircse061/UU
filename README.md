@@ -7,7 +7,14 @@ Uttara University (CSE) Class Materials
 Welcome to my course repository! Below you will find details of the courses I am teaching in Fall 2025 and Spring/Summer/Fall 2026.   
 ---
 
-## 🌞 Day /🌙Eve Batch Courses
+## 🌞 Day Batch Courses
+
+### ☕ Java Programming and Sessional
+- **Course Code:** CSE0613207 and CSE0613208
+- ### **Batch:** 64D Day (CSE)  
+- **📑 Slide Link:** [Slides](https://drive.google.com/drive/folders/1hujzSCnwPbGjWyNxjiK_rUYho8q04ygV?usp=sharing)  
+- **📚 Reference Book Link:** [Book](https://www.sietk.org/downloads/javabook.pdf)
+- **📚 Course Outlines:** [Link](https://drive.google.com/drive/folders/1hujzSCnwPbGjWyNxjiK_rUYho8q04ygV?usp=sharing) 
 
 ### 📐 Engineering Drawing  
 - **Course Code:** CSE0611301  
